@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "ロンリー (SHUTTLE ver.)",
+  "base_artist": "FINLANDS",
+  "createdAt": "2026-03-09T09:23:34.672817Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ロンリー",
+      "artist": "the peggies",
+      "has_synced": true,
+      "path": "select/01_ロンリー_the_peggies.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "オンリー・ザ・ロンリー",
+      "artist": "モーテルズ",
+      "has_synced": false,
+      "path": "select/02_オンリー・ザ・ロンリー_モーテルズ.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ロンリー・ウーマン (2001 Remix Version)",
+      "artist": "Mariya Takeuchi",
+      "has_synced": false,
+      "path": "select/03_ロンリー・ウーマン_(2001_Remix_Version)_Mariya_Takeuchi.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "for ロンリー",
+      "artist": "Aimer feat. Mao Abe",
+      "has_synced": true,
+      "path": "select/04_for_ロンリー_Aimer_feat._Mao_Abe.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "オンリー ロンリー グローリー",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": false,
+      "path": "select/05_オンリー_ロンリー_グローリー_BUMP_OF_CHICKEN.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "for ロンリー",
+      "artist": "Aimer with 阿部真央",
+      "has_synced": true,
+      "path": "select/06_for_ロンリー_Aimer_with_阿部真央.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Only Lonely Glory [オンリー ロンリー グローリー]",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/07_Only_Lonely_Glory_[オンリー_ロンリー_グローリー]_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "for ロンリー",
+      "artist": "Mao Abe",
+      "has_synced": true,
+      "path": "select/08_for_ロンリー_Mao_Abe.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "for ロンリー",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/09_for_ロンリー_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "for ロンリー (致孤独)",
+      "artist": "Aimer;阿部真央",
+      "has_synced": true,
+      "path": "select/10_for_ロンリー_(致孤独)_Aimer;阿部真央.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "for ロンリー",
+      "artist": "Aimer feat. 阿部真央",
+      "has_synced": true,
+      "path": "select/11_for_ロンリー_Aimer_feat._阿部真央.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ロンリー・チャップリン with 鈴木雅之",
+      "artist": "JUJU",
+      "has_synced": true,
+      "path": "select/12_ロンリー・チャップリン_with_鈴木雅之_JUJU.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ロンリー・ジャーニー",
+      "artist": "Akina Nakamori",
+      "has_synced": true,
+      "path": "select/13_ロンリー・ジャーニー_Akina_Nakamori.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "オンリー ロンリー グローリー",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/14_オンリー_ロンリー_グローリー_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "ロンリー・ジャーニー",
+      "artist": "中森明菜",
+      "has_synced": false,
+      "path": "select/15_ロンリー・ジャーニー_中森明菜.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "for ロンリー",
+      "artist": "Aimer/Mao Abe",
+      "has_synced": true,
+      "path": "select/16_for_ロンリー_Aimer_Mao_Abe.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "ロンリー・ジャーニー",
+      "artist": "Akina Nakamori",
+      "has_synced": false,
+      "path": "select/17_ロンリー・ジャーニー_Akina_Nakamori.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "ロンリー・ガール",
+      "artist": "飯島真理",
+      "has_synced": false,
+      "path": "select/18_ロンリー・ガール_飯島真理.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ロンリー - SHUTTLE ver.",
+      "artist": "FINLANDS",
+      "has_synced": false,
+      "path": "select/pl_01_ロンリー_-_SHUTTLE_ver._FINLANDS.txt"
+    }
+  ]
+}
